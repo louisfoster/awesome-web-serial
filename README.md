@@ -21,6 +21,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 
 ## Demos
 
+- [Custom controller and music game using Web Serial](https://github.com/drohen/paddle-game) - A kind of proof of concept of building a gaming system using just a few components, a microcontroller, and the Web Serial API (along with 2D canvas and Web Audio).
 - [Web Serial API Example Project](https://github.com/drohen/serial-web-test) - A slightly more advanced "hello world" with a [live demo](https://drohen.github.io/serial-web-test/) (requires a serial device running the project's micropython code). Utilises 2 variable resistor values controlling 2 Web Audio API oscillators.
 
 ### Terminals
