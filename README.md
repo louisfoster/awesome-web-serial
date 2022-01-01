@@ -18,6 +18,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 
 - [MDN Official Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API) - includes a deep dive into the API, example code, browser support, and other helpful links.
 - [Google Codelab Getting Started with Web Serial](https://codelabs.developers.google.com/codelabs/web-serial#0) - Easy to follow starter project for use with the BBC micro:bit.
+- [web.dev tutorial](https://web.dev/serial/) - goes into detail about various aspects of the API, includes details about signals and streams.
 
 ## Demos
 
@@ -27,6 +28,11 @@ Awesome resources for serial communication using the browser. Includes these ver
 ### Terminals
 
 - [Windows XP -inspired web serial controller](https://webserial.app/) - Fun demonstration of a serial communication tool that resembles the UI of the Windows XP desktop.
+
+## Applications
+
+- [Adafruit ESP bootloader flashing tool](https://adafruit.github.io/Adafruit_WebSerial_ESPTool/) - "WebSerial ESPTool designed to be a web-capable option for programming ESP32-S2 boards". There's also a [tutorial](https://learn.adafruit.com/adafruit-metro-esp32-s2/web-serial-esptool) and [the code is available on Github](https://github.com/adafruit/Adafruit_WebSerial_ESPTool).
+- [Espruino IDE](https://www.espruino.com/ide/) - An entire web-based IDE for programming the Espruino range of boards. Includes built-in tutorials, guides, and the IDE even has auto-complete.
 
 ## Compatible Devices
 
