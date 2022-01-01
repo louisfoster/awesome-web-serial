@@ -8,6 +8,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 - [Documentation / Implementation / Tutorials](#documentation--implementation--tutorials)
 - [Demos](#demos)
 	- [Terminals](#terminals)
+- [Applications](#applications)
 - [Compatible Devices](#compatible-devices)
 
 ## Code utilities
