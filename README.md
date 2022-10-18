@@ -38,9 +38,11 @@ Awesome resources for serial communication using the browser. Includes these ver
 - [Adafruit ESP bootloader flashing tool](https://adafruit.github.io/Adafruit_WebSerial_ESPTool/) - "WebSerial ESPTool designed to be a web-capable option for programming ESP32-S2 boards". There's also a [tutorial](https://learn.adafruit.com/adafruit-metro-esp32-s2/web-serial-esptool) and [the code is available on Github](https://github.com/adafruit/Adafruit_WebSerial_ESPTool).
 - [Espruino IDE](https://www.espruino.com/ide/) - An entire web-based IDE for programming the Espruino range of boards. Includes built-in tutorials, guides, and the IDE even has auto-complete.
 - [VitalSync](https://xchart.com/automatic-monitoring) - Reads vitals from monitors and produces charting report.
+- [PN532.js](https://github.com/taichunmin/pn532.js) - A JavaScript library for PN532 base on Web Bluetooth and Web Serial.
 
 ## Compatible Devices
 
 - [BBC micro:bit](https://microbit.org/) - Educational microcontroller with tonnes of peripherals and lots of kid-friendly programming tools and projects, many based in the browser.
 - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) - ARM-based, cheap, microcontroller that can be programmed with Arduino C, Micropython, Circuitpython, and has serial available via its built-in USB port.
 - [Arduino Uno](https://www.arduino.cc/en/Main/Products) - Entry-level microcontroller that can be used for web serial projects.
+- [PN532](https://www.nxp.com/docs/en/user-guide/141520.pdf) - PN532 is an NFC RFID Module for Near Field Communication at 13.56MHz. It supports RFID reading and writing, and NFC function with Android phone.
