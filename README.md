@@ -13,7 +13,8 @@ Awesome resources for serial communication using the browser. Includes these ver
 
 ## Code utilities
 
-- [fromWebSerial](https://rxjs.ninja/modules/utility.html#fromwebserial) - RxJS Ninja utility function that returns the serial read data as an Observable, and can also receive an Observable to use as a write stream.
+- [fromWebSerial](https://rxjs-ninja.tane.dev/modules/utility.html#fromwebserial) - RxJS Ninja utility function that returns the serial read data as an Observable, and can also receive an Observable to use as a write stream.
+- 
 
 ## Documentation / Implementation / Tutorials
 
