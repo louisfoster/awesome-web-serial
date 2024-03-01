@@ -24,8 +24,8 @@ Awesome resources for serial communication using the browser. Includes these ver
 
 ## Demos
 
-- [Custom controller and music game using Web Serial](https://github.com/drohen/paddle-game) - A kind of proof of concept of building a gaming system using just a few components, a microcontroller, and the Web Serial API (along with 2D canvas and Web Audio).
-- [Web Serial API Example Project](https://github.com/drohen/serial-web-test) - A slightly more advanced "hello world" with a [live demo](https://drohen.github.io/serial-web-test/) (requires a serial device running the project's micropython code). Utilises 2 variable resistor values controlling 2 Web Audio API oscillators.
+- [Custom controller and music game using Web Serial](https://github.com/louisfoster/paddle-game) - A kind of proof of concept of building a gaming system using just a few components, a microcontroller, and the Web Serial API (along with 2D canvas and Web Audio).
+- [Web Serial API Example Project](https://github.com/louisfoster/serial-web-test) - A slightly more advanced "hello world" with a [live demo](https://louisfoster.github.io/serial-web-test/) (requires a serial device running the project's micropython code). Utilises 2 variable resistor values controlling 2 Web Audio API oscillators.
 
 ### Terminals
 
@@ -34,7 +34,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 
 ## Applications
 
-- [Kaluma IDE](https://kaluma.io/ide) - Browser-based IDE for a JavaScript runtime for the RP2040 that loads code onto the chip via Web Serial.
+- [Kaluma IDE](https://kalumajs.org/ide/) - Browser-based IDE for a JavaScript runtime for the RP2040 that loads code onto the chip via Web Serial.
 - [Piper MAKE](https://make.playpiper.com/) - Educational platform that uses a Blockly-like visual programming tool to write code and load it onto a Raspberry Pi Pico from the browser. Also, has a novel use of the File System Access API.
 - [Adafruit ESP bootloader flashing tool](https://adafruit.github.io/Adafruit_WebSerial_ESPTool/) - "WebSerial ESPTool designed to be a web-capable option for programming ESP32-S2 boards". There's also a [tutorial](https://learn.adafruit.com/adafruit-metro-esp32-s2/web-serial-esptool) and [the code is available on Github](https://github.com/adafruit/Adafruit_WebSerial_ESPTool).
 - [Espruino IDE](https://www.espruino.com/ide/) - An entire web-based IDE for programming the Espruino range of boards. Includes built-in tutorials, guides, and the IDE even has auto-complete.
