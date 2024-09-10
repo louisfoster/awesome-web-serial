@@ -15,7 +15,6 @@ Awesome resources for serial communication using the browser. Includes these ver
 
 - [fromWebSerial](https://rxjs-ninja.tane.dev/modules/utility.html#fromwebserial) - RxJS Ninja utility function that returns the serial read data as an Observable, and can also receive an Observable to use as a write stream.
 - [SimpleWebSerial](https://fmgrafikdesign.gitbook.io/simplewebserial/) - Easy-to-use library that allows web enthusiasts to easily connect an Arduino with their web project. Employs an event-driven coding style.
-- [Wavecake](https://app.getwavecake.com/webdevice) - An IDE for sandboxing Web Serial, Web Bluetooth and other scripts. Examples scripts are included. Also supports UI elements and charts.
 
 ## Documentation / Implementation / Tutorials
 
@@ -31,7 +30,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 ### Terminals
 
 - [PWA serial terminal](https://github.com/GoogleChromeLabs/serial-terminal) - Offline-capable serial terminal by Google Chrome Labs to demonstrate Web Serial API.
-- [Windows XP -inspired web serial controller](https://webserial.app/) - Fun demonstration of a serial communication tool that resembles the UI of the Windows XP desktop.
+- [dead link] ~~[Windows XP -inspired web serial controller](https://webserial.app/) - Fun demonstration of a serial communication tool that resembles the UI of the Windows XP desktop.~~
 
 ## Applications
 
@@ -41,6 +40,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 - [Espruino IDE](https://www.espruino.com/ide/) - An entire web-based IDE for programming the Espruino range of boards. Includes built-in tutorials, guides, and the IDE even has auto-complete.
 - [VitalSync](https://xchart.com/automatic-monitoring) - Reads vitals from monitors and produces charting report.
 - [PN532.js](https://github.com/taichunmin/pn532.js) - A JavaScript library for PN532 base on Web Bluetooth and Web Serial.
+- [Wavecake](https://app.getwavecake.com/webdevice) - An IDE for sandboxing Web Serial, Web Bluetooth and other scripts. Examples scripts are included. Also supports UI elements and charts.
 
 ## Compatible Devices
 
