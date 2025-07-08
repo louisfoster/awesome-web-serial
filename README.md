@@ -41,6 +41,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 - [VitalSync](https://xchart.com/automatic-monitoring) - Reads vitals from monitors and produces charting report.
 - [PN532.js](https://github.com/taichunmin/pn532.js) - A JavaScript library for PN532 base on Web Bluetooth and Web Serial.
 - [Wavecake](https://app.getwavecake.com/webdevice) - An IDE for sandboxing Web Serial, Web Bluetooth and other scripts. Examples scripts are included. Also supports UI elements and charts.
+- [Phomemo-M02-Web](https://github.com/K0IN/Phomemo-M02-Web) - A offline capable Progessive web app to print images using a Phomemo M02 printer.
 
 ## Compatible Devices
 
