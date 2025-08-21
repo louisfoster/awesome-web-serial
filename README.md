@@ -15,6 +15,7 @@ Awesome resources for serial communication using the browser. Includes these ver
 
 - [fromWebSerial](https://rxjs-ninja.tane.dev/modules/utility.html#fromwebserial) - RxJS Ninja utility function that returns the serial read data as an Observable, and can also receive an Observable to use as a write stream.
 - [SimpleWebSerial](https://fmgrafikdesign.gitbook.io/simplewebserial/) - Easy-to-use library that allows web enthusiasts to easily connect an Arduino with their web project. Employs an event-driven coding style.
+- [modbus-webserial](https://github.com/anttikotajarvi/modbus-webserial) - ES library for communicating with a Modbus-RTU serial device from the browser via WebSerial.
 
 ## Documentation / Implementation / Tutorials
 
